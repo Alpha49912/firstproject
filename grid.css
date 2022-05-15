@@ -1,0 +1,61 @@
+body{
+    font-family: "lato", sans-serif;
+
+
+}
+
+h4 em{
+    color:#ffff;
+}
+
+img{
+    padding-top: 2px;
+}
+h4.header-note{
+    color:#32c0c4;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 8px 200px 8px 500px;
+}
+h5.card-text{
+    color:#32c0c4;
+}
+.fixed_button{
+    position:fixed;
+}
+.blog-content{
+    margin: 100px 10px 0px 50px;
+    text-align: justify;
+}
+h5.blog-title{
+    color: #673467;
+    font-style: italic;
+    font-weight: bolder;
+}
+.thumbnail-image{
+    margin-top: 100px;
+}
+.a{
+    font-weight: bold;
+    font-style:italic;
+}
+h2.contact-header{
+    font-family: "Lato";
+    margin-top:10px;
+    text-align: center;
+    color:#673467;
+}
+.contact-intro-text{
+    padding:10px;
+    margin:5px;
+}
+p.em{
+    color:#673467;
+}
+fieldset.col-fieldset{
+    padding:10px;
+    margin: 10px;
+}
+hr{
+    color:#673467;
+}
